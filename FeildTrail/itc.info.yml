@@ -1,0 +1,6 @@
+name: ITC
+core: 8.x
+version: 8.x-1.0
+type: module
+description: Custom country field
+core_version_requirement: ^8 || ^9
